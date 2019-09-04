@@ -1,21 +1,21 @@
-[![last commit](https://img.shields.io/github/last-commit/noah-blockchain/noah-go-node.svg)]()
-[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/noah-blockchain/noah-go-node/blob/master/LICENSE)
-[![version](https://img.shields.io/github/tag/noah-blockchain/noah-go-node.svg)](https://github.com/noah-blockchain/noah-go-node/releases/latest)
+[![last commit](https://img.shields.io/github/last-commit/noah-blockchain/node.svg)]()
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/noah-blockchain/node/blob/master/LICENSE)
+[![version](https://img.shields.io/github/tag/noah-blockchain/node.svg)](https://github.com/noah-blockchain/node/releases/latest)
 [![Go version](https://img.shields.io/badge/go-1.12.0-blue.svg)](https://github.com/moovweb/gvm)
-[![](https://tokei.rs/b1/github/noah-blockchain/noah-go-node?category=lines)](https://github.com/noah-blockchain/noah-go-node)
+[![](https://tokei.rs/b1/github/noah-blockchain/node?category=lines)](https://github.com/noah-blockchain/node)
 
 # NOAH-blockchain go-node
 
-### [dev-branch](https://github.com/noah-blockchain/noah-go-node/tree/dev)
+### [dev-branch](https://github.com/noah-blockchain/node/tree/dev)
 The branch contains the most current version
 
-#### [alpha-branch](https://github.com/noah-blockchain/noah-go-node/tree/alpha)
+#### [alpha-branch](https://github.com/noah-blockchain/node/tree/alpha)
 The branch contains a version for alpha-testing
 
-#### [beta-branch](https://github.com/noah-blockchain/noah-go-node/tree/beta)
+#### [beta-branch](https://github.com/noah-blockchain/node/tree/beta)
 The branch contains a version for beta-testing
 
-#### [master-branch](https://github.com/noah-blockchain/noah-go-node/tree/master)
+#### [master-branch](https://github.com/noah-blockchain/node/tree/master)
 Public release
 
 ## Sub-modules
@@ -37,8 +37,8 @@ Clone source code to your machine
 ```
 mkdir -p $GOPATH/src/github.com/noah-blockchain or $HOME/noah
 cd $GOPATH/src/github.com/noah-blockchain
-git clone https://github.com/noah-blockchain/noah-go-node.git
-cd noah-go-node
+git clone https://github.com/noah-blockchain/node.git
+cd node
 ```
 
 Get Tools & Dependencies
