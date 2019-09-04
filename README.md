@@ -1,8 +1,8 @@
-[![last commit](https://img.shields.io/github/last-commit/noah-blockchain/noah-go-node.svg)]()
-[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/noah-blockchain/noah-go-node/blob/master/LICENSE)
-[![version](https://img.shields.io/github/tag/noah-blockchain/noah-go-node.svg)](https://github.com/noah-blockchain/noah-go-node/releases/latest)
+[![last commit](https://img.shields.io/github/last-commit/noah-blockchain/node.svg)]()
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/noah-blockchain/node/blob/master/LICENSE)
+[![version](https://img.shields.io/github/tag/noah-blockchain/noah-go-node.svg)](https://github.com/noah-blockchain/node/releases/latest)
 [![Go version](https://img.shields.io/badge/go-1.12.0-blue.svg)](https://github.com/moovweb/gvm)
-[![](https://tokei.rs/b1/github/noah-blockchain/noah-go-node?category=lines)](https://github.com/noah-blockchain/noah-go-node)
+[![](https://tokei.rs/b1/github/noah-blockchain/noah-go-node?category=lines)](https://github.com/noah-blockchain/node)
 
 # NOAH-blockchain go-node
 
